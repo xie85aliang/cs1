@@ -10,7 +10,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "小2小样说：" +  "Hello World!" );
+        System.out.println( "小22小样说：" +  "Hello World!" );
         
         System.out.println(BeanUtils.class.getName());
     }
